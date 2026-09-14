@@ -1,0 +1,7 @@
+{
+  "name": "hope-to-reach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static gospel ministry website concept",
+  "scripts": { "start": "python -m http.server 3000", "check": "node --check script.js && node --check content.js" }
+}
